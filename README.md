@@ -1,5 +1,5 @@
 # Zrm
-![image](https://github.com/a-brandon/Zrm/blob/main/pictures/chat_logs.png)
+![image](https://github.com/a-brandon/Zrm/blob/main/images/chat_logs.png)
 
 Zrm is a tool used to collect chat data from a Twitch stream and gives you the option of having the parsed data saved locally or emailing it to a recipient(s). The type of data collected:
 - The keyword you're searching for.
