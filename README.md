@@ -28,7 +28,7 @@ Zrm is a tool used to collect chat data from a Twitch stream and gives you the o
 - Select the "Chat Downloader" option.
 - Go to any **published** VOD on Twitch and copy the VOD ID (should look similar to this):
 
-![VOD ID](https://github.com/a-brandon/Zrm/blob/main/pictures/vod_id.png)
+![VOD ID](https://github.com/a-brandon/Zrm/blob/main/images/vod_id.png)
 - Paste it into the "VOD Link/ID" box in TwitchDownloader.
 - Click "Get Info".
 - Save it in the **same** folder that has the Zrm .exe file.
