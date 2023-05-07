@@ -21,7 +21,7 @@ Zrm is a tool used to collect chat data from a Twitch stream and gives you the o
 - Copy the .exe file to the same folder containing the files from the zip file.
 - Folder should look like this if the above steps were done properly:
  
-![Folder Preview](https://github.com/a-brandon/Zrm/blob/main/pictures/folder_preview.png)
+![Folder Preview](https://github.com/a-brandon/Zrm/blob/main/images/folder_preview.png)
 
 # Usage.
 - Run the TwitchDownloader .exe.
